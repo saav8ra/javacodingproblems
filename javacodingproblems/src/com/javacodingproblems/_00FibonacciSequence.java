@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class _00FibonacciSequence {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the number of terms: ");
+        System.out.print("Enter the number of terms: "); //
         int n = scanner.nextInt();
         int t1 = 0, t2 = 1;
         System.out.print("The first " + n + " terms of the Fibonacci sequence are: ");
