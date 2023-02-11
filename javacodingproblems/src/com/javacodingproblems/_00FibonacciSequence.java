@@ -1,6 +1,8 @@
 package com.javacodingproblems;
 
 import java.util.Scanner;
+
+//add some comments
 public class _00FibonacciSequence {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
